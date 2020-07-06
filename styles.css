@@ -1,11 +1,12 @@
 .container {
   max-width: 1000px;
-  min-width: 600px;
+  min-width: 850px;
   margin-right: auto;
   margin-left: auto;
 }
 
-header {text-align: center;}
+h1 {text-align: center;
+    margin-top: 0;}
 
 h2 {text-align: center;
     margin: 0;
