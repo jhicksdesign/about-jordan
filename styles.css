@@ -1,0 +1,17 @@
+.container {
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+header {text-align: center;}
+
+.flex {display: flex;
+    border-style: ridge;}
+
+.main-image {flex: 1;
+            margin-right: 1%;
+            max-width: 100%;}
+
+.main-text {flex: 3;
+            font-size: 150%;}
